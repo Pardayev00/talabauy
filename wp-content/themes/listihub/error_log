@@ -1,0 +1,16 @@
+[16-Jan-2024 20:04:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/eplugins/public_html/listihub/wp-content/themes/listihub/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/eplugins/public_html/listihub/wp-content/themes/listihub/index.php on line 15
+[16-Jan-2024 20:12:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/eplugins/public_html/listihub/wp-content/themes/listihub/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/eplugins/public_html/listihub/wp-content/themes/listihub/index.php on line 15
+[17-Jan-2024 17:49:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/eplugins/public_html/listihub/wp-content/themes/listihub/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/eplugins/public_html/listihub/wp-content/themes/listihub/index.php on line 15
+[29-Jun-2024 11:39:03 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/talabauy/public_html/wp-content/themes/listihub/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/talabauy/public_html/wp-content/themes/listihub/index.php on line 15

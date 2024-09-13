@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: Home Two were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://talaba.loc
+Data file = C:\OSPanel\domains\Talaba.loc/wp-content/themes/listihub//inc/demo-content/content.xml
+Widget file = C:\OSPanel\domains\Talaba.loc/wp-content/themes/listihub//inc/demo-content/widgets.wie
+Customizer file = C:\OSPanel\domains\Talaba.loc/wp-content/themes/listihub//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Блок - No Title - Widget already exists
+Блок - No Title - Imported
+Listihub : Recent Posts - Recent Posts - Imported
+Блок - No Title - Imported
+
+Footer Widget : 
+
+Listihub : About Company Widget  - No Title - Imported
+Listihub : Navigation Menu - Quick Links - Imported
+Listihub : Navigation Menu - Information - Imported
+Listihub : Subscribe Form - Newsletter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

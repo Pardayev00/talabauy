@@ -1,0 +1,162 @@
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+    font-size: 15px;
+    line-height: 1.9
+}
+
+strong {
+    font-weight: 700;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    transition: .3s;
+}
+
+a:hover, a:focus, a:active {
+    outline: none;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+}
+
+h4 {
+    color: red;
+    font-weight: 500;
+}
+
+h1, h2 {
+    color: #000000;
+    font-size: 42px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #ddd;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.section-padding {
+    padding: 40px 0;
+}
+
+.document-logo {
+    text-align: center;
+    background: #ffffff;
+}
+
+.document-logo img {
+    display: inline-block;
+    margin: 0 auto;
+    max-width: 80%;
+}
+
+.document-logo {
+    padding: 30px 0;
+}
+
+.document-left-menu {
+    width: 280px;
+    background: #e6f1f0;
+    position: fixed;
+    height: 100%;
+    text-align: right;
+    border-right: 2px solid #CFCFCF;
+    overflow: scroll;
+}
+
+.navigation-menu li a {
+    display: block;
+    padding: 5px 25px 5px 10px;
+    border-bottom: 1px solid #ddd;
+    text-transform: capitalize;
+    color: #565656;
+    font-size: 14px;
+}
+
+.navigation-menu li.active a, .navigation-menu li a:hover {
+    background: #207fdc;
+    color: #ffffff;
+}
+
+.document-right-descriptions {
+    padding-left: 300px;
+    background: #f5f5f4;
+    padding-right: 50px;
+}
+
+.big-text {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+
+.dsc-small-heading {
+    font-size: 25px;
+}
+
+.screen-img {
+    margin: 30px 0;
+}
+
+
+.alert {
+    margin-top: 15px;
+}
+
+
+ul.rating-star, ul.rating-star li {
+    display: inline-block;
+    color: #ffc601;
+}
+
+.left-copyright-text {
+    padding: 5px 25px 5px 10px;
+    font-size: 13px;
+    margin-top: 25px;
+}
+
+
+a.logo-text {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+section#change-log pre {
+    white-space: pre-line;
+    border: 2px solid #dddddd;
+    border-radius: 8px;
+    font-size: 17px;
+    padding: 30px;
+    max-width: 80%;
+}
+
+.video-wrapper {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.video-wrapper iframe {
+    width: 70%;
+    height: 550px;
+}
